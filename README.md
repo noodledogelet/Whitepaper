@@ -1,4 +1,4 @@
-# Whitepaper
+# Whitepaper V1
 
 Guys you bought a coin based off a dog with a head shaped like a bicycle seat. What utility did you expect? 
 
